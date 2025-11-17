@@ -27,6 +27,7 @@ open-source design system.
 -   [Component docs](./docs/components/)
 -   [Bundle size](./docs/size.md)
 -   [Browser support and FAQ](./docs/support.md)
+-   [Design System Audit Documentation](./docs/LEXICON_AUDIT_README.md) - Comprehensive framework for auditing design systems
 
 ## Quick start
 
